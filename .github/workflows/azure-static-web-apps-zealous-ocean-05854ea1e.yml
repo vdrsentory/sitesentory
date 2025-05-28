@@ -28,7 +28,7 @@ jobs:
           action: "upload"
           ###### Repository/Build Configurations - These values can be configured to match your app requirements. ######
           # For more information regarding Static Web App workflow configurations, please visit: https://aka.ms/swaworkflowconfig
-          app_location: "/https://github.com/vdrsentory/sitesentory/tree/378b0a30fa6cbfb00acc790a19c9b5336eda1adc" # App source code path
+          app_location: "/https://github.com/vdrsentory/sitesentory/main" # App source code path
           api_location: "" # Api source code path - optional
           output_location: "." # Built app content directory - optional
           ###### End of Repository/Build Configurations ######
